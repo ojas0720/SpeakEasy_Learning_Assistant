@@ -1,0 +1,10 @@
+{
+  "css.customData": [
+    ".vscode/css_custom_data.json"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "codium.codeCompletion.enable": false,
+  "kiroAgent.configureMCP": "Enabled"
+}
